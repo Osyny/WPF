@@ -1,0 +1,44 @@
+﻿<Window x:Class="Com.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Loaded="Window_Loaded"
+        xmlns:local="clr-namespace:Com"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+
+        <DockPanel>
+            <Label Content="Name :" VerticalAlignment="Center" Margin="10"></Label>
+            <TextBox Name="textBoxName" Text="{Binding Path=Name}"  Margin="20"></TextBox>
+        </DockPanel>
+        <DockPanel Grid.Row="1">
+            <Label Content="LastName :" VerticalAlignment="Center"></Label>
+            <TextBox Name="textBoxLasName" Margin="20" 
+                     Text="{Binding Path=LastName}">
+                
+            </TextBox>
+        </DockPanel>
+        <DockPanel Grid.Row="2">
+            <Label Content="Country :"  Margin="5, 20"></Label>
+            <ComboBox Name="comboBoxCountry" Margin="20" 
+                      ItemsSource="{Binding Countries}"
+                      SelectedItem="{Binding Country}" 
+                      SelectedIndex="{Binding Path=CountryIndex}">
+            </ComboBox>
+        </DockPanel>
+
+        <DockPanel Grid.Row="3">
+            <Button Name="buttonMessageBox" Content=" MessangerBox " Margin="50, 20"></Button>
+            <Button Name="buttonClier" Content="Clear" Margin="100, 20"></Button>
+        </DockPanel>
+
+    </Grid>
+</Window>
