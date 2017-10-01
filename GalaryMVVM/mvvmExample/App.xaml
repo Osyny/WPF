@@ -1,0 +1,10 @@
+﻿<Application x:Class="mvvmExample.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:mvvmExample"
+             StartupUri="View\MainWindow.xaml">
+    <!--1. StartupURI!!!-->
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

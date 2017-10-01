@@ -1,0 +1,104 @@
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\mvvmExample.exe.config
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\mvvmExample.exe
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\mvvmExample.pdb
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\mvvmExample.csprojResolveAssemblyReference.cache
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\View\MainWindow.g.cs
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\App.g.cs
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\mvvmExample_MarkupCompile.cache
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\mvvmExample_MarkupCompile.lref
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\View\MainWindow.baml
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\mvvmExample.g.resources
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\mvvmExample.Properties.Resources.resources
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\mvvmExample.csproj.GenerateResource.Cache
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\mvvmExample.exe
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\mvvmExample.pdb
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\System.Windows.Interactivity.dll
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\v8\documents\visual studio 2015\Projects\mvvmExample\mvvmExample\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\mvvmExample.exe.config
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.exe
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.pdb
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\mvvmExample.exe
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\mvvmExample.pdb
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\System.Windows.Interactivity.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.csprojResolveAssemblyReference.cache
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\View\MainWindow.g.cs
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\App.g.cs
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\mvvmExample_MarkupCompile.cache
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\mvvmExample_MarkupCompile.lref
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\View\MainWindow.baml
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.g.resources
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.Properties.Resources.resources
+D:\My\WPF_C#\11_09_PATERN_MVVM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.csproj.GenerateResource.Cache
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\mvvmExample.exe.config
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.exe
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.pdb
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\mvvmExample.exe
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\mvvmExample.pdb
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\System.Windows.Interactivity.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.csprojResolveAssemblyReference.cache
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\View\MainWindow.g.cs
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\App.g.cs
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample_MarkupCompile.cache
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample_MarkupCompile.lref
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\View\MainWindow.baml
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.g.resources
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.Properties.Resources.resources
+D:\My\WPF_C#\13_09_\EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.csproj.GenerateResource.Cache
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\mvvmExample.exe.config
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.exe
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.pdb
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\mvvmExample.exe
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\mvvmExample.pdb
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\System.Windows.Interactivity.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.csprojResolveAssemblyReference.cache
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\View\MainWindow.g.cs
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\App.g.cs
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample_MarkupCompile.cache
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample_MarkupCompile.lref
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\View\MainWindow.baml
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.g.resources
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.Properties.Resources.resources
+D:\MY\PROGECT_C++\WPF_C#\H_W\13_09_EXAM\mvvmExample\mvvmExample\obj\Debug\mvvmExample.csproj.GenerateResource.Cache
